@@ -1,4 +1,4 @@
-# Create secrete
+# Create secret
 
 ```
 dotnet user-secrets init --project src/MyWeb/MyWeb.csproj
